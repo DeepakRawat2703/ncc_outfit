@@ -1,0 +1,38 @@
+{
+"products" : [
+
+  {
+    "id": 1,
+    "name": "Male Outfit",
+    "desc": "Male Outfit Size :Xl",
+    "price": 999,
+    "color": "#33505a",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/05/NCC_cadet_wearing_ceremonial_dress.PNG"
+  },
+  {
+    "id": 2,
+    "name": "Female Outfit",
+    "desc": "Female Outfit Size :Xl",
+    "price": 999,
+    "color": "#33505a",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/05/NCC_cadet_wearing_ceremonial_dress.PNG"
+  }
+  ,{
+    "id": 2,
+    "name": "Female Outfit",
+    "desc": "Female Outfit Size :Xl",
+    "price": 999,
+    "color": "#33505a",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/05/NCC_cadet_wearing_ceremonial_dress.PNG"
+  },
+  {
+    "id": 2,
+    "name": "Female Outfit",
+    "desc": "Female Outfit Size :Xl",
+    "price": 999,
+    "color": "#33505a",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/05/NCC_cadet_wearing_ceremonial_dress.PNG"
+  }
+
+]
+}
